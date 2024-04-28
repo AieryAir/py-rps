@@ -1,0 +1,6 @@
+print ("Simple Rock Paper Scissors Game")
+print ("What do you throw?")
+print ("1. Rock")
+print ("2. Paper")
+print ("3. Scissors")
+input ()
